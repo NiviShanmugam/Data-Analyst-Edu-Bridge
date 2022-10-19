@@ -1,3 +1,2 @@
-# Data-Analyst-Edu-Bridge
-![Screenshot (44)](https://user-images.githubusercontent.com/104645898/196746593-ba4fb209-dcb1-4f31-b6fd-8f13de3cb721.png)
-![Screenshot (45)](https://user-images.githubusercontent.com/104645898/196746704-d570b519-8db0-411e-85f3-91256166be37.png)
+![Screenshot (46)](https://user-images.githubusercontent.com/104645898/196750347-4f8c755b-110b-4838-836d-279663508f45.png)
+![Screenshot (47)](https://user-images.githubusercontent.com/104645898/196750387-c89cb057-27b2-4989-8a3d-a6fb276e5930.png)
