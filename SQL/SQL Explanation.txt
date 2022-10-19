@@ -1,1 +1,6 @@
+Create a database class and use the database
+Create a table Student with the primary key of enrollment_no and insert the values into the tables
+Using  Count function, the number of candidates can be calculated.
+Number of candidates who have secured more than or equal to 75 marks in the Semester Exam can be found by using where conditions.
+Group By function is used to arrange the Number of candidates who have secured more than or equal to 75 marks in the Semester Exam by section wise
 
